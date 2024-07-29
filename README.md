@@ -1,4 +1,4 @@
-##  👋 Hello! My name is Ieva. ✨
+## 👋 Hello! My name is Ieva. ✨
 
 ---
 
@@ -30,12 +30,8 @@ I am a software developer with expertise in various programming languages and te
 I am committed to ongoing growth in web development and emerging technologies.
 
 <div style="display: flex; align-items: center;">
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" width="250" height="150" style="margin-right: 15px;">
-    </picture>
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" width="196" height="150">
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" height="150" style="margin-right: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" height="150">
 </div>
 
 ---
@@ -45,11 +41,11 @@ I am committed to ongoing growth in web development and emerging technologies.
 ---
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/ievasinke" style="margin-right: 10px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="LinkedIn Logo" width="50" height="50">
+    <a href="https://www.linkedin.com/in/ievasinke" style="margin-right: 10px; display: inline-block">
+        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="LinkedIn Logo" height="30">
     </a>
-    <a href="mailto:ieva.sinke@gmail.com">
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="Gmail Icon" width="50" height="30">
+    <a href="mailto:ieva.sinke@gmail.com" style="display: inline-block">
+        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="Gmail Icon" width="30" height="30">
     </a>
 </div>
 
