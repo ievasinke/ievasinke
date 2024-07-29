@@ -41,12 +41,8 @@ I am committed to ongoing growth in web development and emerging technologies.
 ---
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/ievasinke" style="margin-right: 10px; display: inline-block">
-        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="LinkedIn Logo" height="30">
-    </a>
-    <a href="mailto:ieva.sinke@gmail.com" style="display: inline-block">
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="Gmail Icon" width="30" height="30">
-    </a>
+    <a href="https://www.linkedin.com/in/ievasinke" style="margin-right: 10px; display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="LinkedIn Logo" height="30"></a>
+    <a href="mailto:ieva.sinke@gmail.com" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="Gmail Icon" width="30" height="30"></a>
 </div>
 
 Please feel free to explore my profile and reach out to me if you’d like to discuss any opportunities or projects!
