@@ -31,10 +31,10 @@ I am committed to ongoing growth in web development and emerging technologies.
 
 <div style="display: flex; align-items: center;">
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" width="500" height="180" style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" width="250" height="150" style="margin-right: 15px;">
     </picture>
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" width="400" height="180">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" width="196" height="150">
     </picture>
 </div>
 
