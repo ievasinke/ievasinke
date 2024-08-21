@@ -6,7 +6,7 @@ Welcome to My GitHub Page!
 I am a software developer with expertise in various programming languages and technologies, including:
 
 <div style="display: flex; align-items: center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="40" style="margin-right: 5px;"/>
+    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="50" height="40" style="margin-right: 5px;"/>
