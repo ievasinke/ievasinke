@@ -30,8 +30,8 @@ I am a QA engineer and software developer with expertise in various programming 
 I am committed to ongoing growth in web development and emerging technologies.
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" alt="stats"  height="150" style="margin-right: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" alt="stats top" height="150">
+    <img src="https://ievasinkestats-git-main-ievasinkes-projects.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" alt="stats"  height="150" style="margin-right: 15px;">
+    <img src="https://ievasinkestats-git-main-ievasinkes-projects.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" alt="stats top" height="150">
 </div>
 
 ---
