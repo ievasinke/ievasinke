@@ -3,7 +3,7 @@
 ---
 
 Welcome to My GitHub Page!
-I am a software developer with expertise in various programming languages and technologies, including:
+I am a QA engineer and software developer with expertise in various programming languages and technologies, including:
 
 <div style="display: flex; align-items: center;">
     <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="50" height="40" style="margin-right: 5px;"/>
@@ -13,7 +13,7 @@ I am a software developer with expertise in various programming languages and te
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="50" height="40" style="margin-right: 5px;"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50" height="40" style="margin-right: 5px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width="50" height="40" style="margin-right: 5px;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="40" style="margin-right: 5px;"/>
@@ -30,8 +30,8 @@ I am a software developer with expertise in various programming languages and te
 I am committed to ongoing growth in web development and emerging technologies.
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" height="150" style="margin-right: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=ievasinke&show_icons=true&theme=cobalt" alt="stats"  height="150" style="margin-right: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ievasinke&layout=compact&theme=cobalt" alt="stats top" height="150">
 </div>
 
 ---
